@@ -1,6 +1,6 @@
 ﻿namespace AS2122_4E_INF_FabbriMarco_GestioneArticolii
 {
-    partial class Form1
+    partial class frmMain
     {
         /// <summary>
         ///  Required designer variable.
